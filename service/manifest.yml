@@ -1,0 +1,5 @@
+---
+applications:
+ - name: UnfeelTheBurn
+   host:
+   memory: 1G
